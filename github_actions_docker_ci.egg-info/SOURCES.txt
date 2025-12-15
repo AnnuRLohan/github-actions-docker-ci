@@ -1,0 +1,8 @@
+pyproject.toml
+app/__init__.py
+app/main.py
+github_actions_docker_ci.egg-info/PKG-INFO
+github_actions_docker_ci.egg-info/SOURCES.txt
+github_actions_docker_ci.egg-info/dependency_links.txt
+github_actions_docker_ci.egg-info/top_level.txt
+tests/test_main.py
